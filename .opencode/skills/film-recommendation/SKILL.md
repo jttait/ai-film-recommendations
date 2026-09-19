@@ -1,8 +1,6 @@
 ---
 name: film-recommendation
-description: Use when the user asks for a film or movie recommendation, wants to pick what to watch
-next, or references reviews.md. Reads the user's film reviews and recommends movies matched to their
-taste, mixing similar and divergent picks so their viewing stays varied.
+description: Use when the user asks for a film or movie recommendation, wants to pick what to watch next, or references reviews.md. Reads the user's film reviews and recommends movies matched to their taste, mixing similar and divergent picks so their viewing stays varied.
 ---
 
 # Film Recommendation
