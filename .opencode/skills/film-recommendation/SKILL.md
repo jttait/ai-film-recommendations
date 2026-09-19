@@ -51,7 +51,7 @@ user would only ever watch similar films.
 ## Output format
 
 **<Title> (<Year>)** — one-sentence reason tying it to their ratings, you can also reference whether
-it's a Mirror, Adjacent, or Streth but don't use those terms because they're not widely used or
+it's a Mirror, Adjacent, or Stretch but don't use those terms because they're not widely used or
 understood.
 
 ## Rules
