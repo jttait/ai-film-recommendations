@@ -4,4 +4,4 @@
 - Parasite (2019) ★★★★☆
 - Memories of Murder (2003) ★★★★★
 - Uncut Gems (2019) ★★★★☆
-
+- Princess Mononoke (1997) ★★★★★
